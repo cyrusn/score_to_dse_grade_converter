@@ -1,0 +1,818 @@
+[
+  {
+    "slug": "bafs",
+    "grade": 0,
+    "min": 0,
+    "max": 39
+  },
+  {
+    "slug": "bafs",
+    "grade": 1,
+    "min": 40,
+    "max": 79
+  },
+  {
+    "slug": "bafs",
+    "grade": 2,
+    "min": 80,
+    "max": 99
+  },
+  {
+    "slug": "bafs",
+    "grade": 3,
+    "min": 100,
+    "max": 129
+  },
+  {
+    "slug": "bafs",
+    "grade": 4,
+    "min": 130,
+    "max": 149
+  },
+  {
+    "slug": "bafs",
+    "grade": 5,
+    "min": 150,
+    "max": 190
+  },
+  {
+    "slug": "bafs",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "bafs",
+    "grade": 7,
+    "min": 196,
+    "max": 200
+  },
+  {
+    "slug": "bio",
+    "grade": 0,
+    "min": 0,
+    "max": 49
+  },
+  {
+    "slug": "bio",
+    "grade": 1,
+    "min": 50,
+    "max": 79
+  },
+  {
+    "slug": "bio",
+    "grade": 2,
+    "min": 80,
+    "max": 119
+  },
+  {
+    "slug": "bio",
+    "grade": 3,
+    "min": 120,
+    "max": 149
+  },
+  {
+    "slug": "bio",
+    "grade": 4,
+    "min": 150,
+    "max": 164
+  },
+  {
+    "slug": "bio",
+    "grade": 5,
+    "min": 165,
+    "max": 190
+  },
+  {
+    "slug": "bio",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "bio",
+    "grade": 7,
+    "min": 196,
+    "max": 200
+  },
+  {
+    "slug": "chem",
+    "grade": 0,
+    "min": 0,
+    "max": 60
+  },
+  {
+    "slug": "chem",
+    "grade": 1,
+    "min": 61,
+    "max": 80
+  },
+  {
+    "slug": "chem",
+    "grade": 2,
+    "min": 81,
+    "max": 100
+  },
+  {
+    "slug": "chem",
+    "grade": 3,
+    "min": 101,
+    "max": 140
+  },
+  {
+    "slug": "chem",
+    "grade": 4,
+    "min": 141,
+    "max": 170
+  },
+  {
+    "slug": "chem",
+    "grade": 5,
+    "min": 171,
+    "max": 190
+  },
+  {
+    "slug": "chem",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "chem",
+    "grade": 7,
+    "min": 195,
+    "max": 200
+  },
+  {
+    "slug": "chi",
+    "grade": 0,
+    "min": 0,
+    "max": 90
+  },
+  {
+    "slug": "chi",
+    "grade": 1,
+    "min": 91,
+    "max": 117
+  },
+  {
+    "slug": "chi",
+    "grade": 2,
+    "min": 118,
+    "max": 141
+  },
+  {
+    "slug": "chi",
+    "grade": 3,
+    "min": 142,
+    "max": 165
+  },
+  {
+    "slug": "chi",
+    "grade": 4,
+    "min": 166,
+    "max": 177
+  },
+  {
+    "slug": "chi",
+    "grade": 5,
+    "min": 178,
+    "max": 192
+  },
+  {
+    "slug": "chi",
+    "grade": 6,
+    "min": 193,
+    "max": 207
+  },
+  {
+    "slug": "chi",
+    "grade": 7,
+    "min": 208,
+    "max": 300
+  },
+  {
+    "slug": "chist",
+    "grade": 0,
+    "min": 0,
+    "max": 29
+  },
+  {
+    "slug": "chist",
+    "grade": 1,
+    "min": 30,
+    "max": 69
+  },
+  {
+    "slug": "chist",
+    "grade": 2,
+    "min": 70,
+    "max": 99
+  },
+  {
+    "slug": "chist",
+    "grade": 3,
+    "min": 100,
+    "max": 115
+  },
+  {
+    "slug": "chist",
+    "grade": 4,
+    "min": 116,
+    "max": 125
+  },
+  {
+    "slug": "chist",
+    "grade": 5,
+    "min": 126,
+    "max": 139
+  },
+  {
+    "slug": "chist",
+    "grade": 6,
+    "min": 140,
+    "max": 154
+  },
+  {
+    "slug": "chist",
+    "grade": 7,
+    "min": 155,
+    "max": 200
+  },
+  {
+    "slug": "cs",
+    "grade": 0,
+    "min": 0,
+    "max": 61
+  },
+  {
+    "slug": "cs",
+    "grade": 1,
+    "min": 62,
+    "max": 81
+  },
+  {
+    "slug": "cs",
+    "grade": 2,
+    "min": 82,
+    "max": 101
+  },
+  {
+    "slug": "cs",
+    "grade": 3,
+    "min": 102,
+    "max": 151
+  },
+  {
+    "slug": "cs",
+    "grade": 4,
+    "min": 152,
+    "max": 181
+  },
+  {
+    "slug": "cs",
+    "grade": 5,
+    "min": 182,
+    "max": 197
+  },
+  {
+    "slug": "cs",
+    "grade": 6,
+    "min": 198,
+    "max": 199
+  },
+  {
+    "slug": "cs",
+    "grade": 7,
+    "min": 200,
+    "max": 200
+  },
+  {
+    "slug": "econ",
+    "grade": 0,
+    "min": 0,
+    "max": 40
+  },
+  {
+    "slug": "econ",
+    "grade": 1,
+    "min": 41,
+    "max": 80
+  },
+  {
+    "slug": "econ",
+    "grade": 2,
+    "min": 81,
+    "max": 120
+  },
+  {
+    "slug": "econ",
+    "grade": 3,
+    "min": 121,
+    "max": 140
+  },
+  {
+    "slug": "econ",
+    "grade": 4,
+    "min": 141,
+    "max": 160
+  },
+  {
+    "slug": "econ",
+    "grade": 5,
+    "min": 161,
+    "max": 180
+  },
+  {
+    "slug": "econ",
+    "grade": 6,
+    "min": 181,
+    "max": 190
+  },
+  {
+    "slug": "econ",
+    "grade": 7,
+    "min": 191,
+    "max": 200
+  },
+  {
+    "slug": "eng",
+    "grade": 0,
+    "min": 0,
+    "max": 90
+  },
+  {
+    "slug": "eng",
+    "grade": 1,
+    "min": 91,
+    "max": 120
+  },
+  {
+    "slug": "eng",
+    "grade": 2,
+    "min": 121,
+    "max": 180
+  },
+  {
+    "slug": "eng",
+    "grade": 3,
+    "min": 181,
+    "max": 210
+  },
+  {
+    "slug": "eng",
+    "grade": 4,
+    "min": 211,
+    "max": 250
+  },
+  {
+    "slug": "eng",
+    "grade": 5,
+    "min": 251,
+    "max": 280
+  },
+  {
+    "slug": "eng",
+    "grade": 6,
+    "min": 281,
+    "max": 290
+  },
+  {
+    "slug": "eng",
+    "grade": 7,
+    "min": 291,
+    "max": 300
+  },
+  {
+    "slug": "geog",
+    "grade": 0,
+    "min": 0,
+    "max": 60
+  },
+  {
+    "slug": "geog",
+    "grade": 1,
+    "min": 61,
+    "max": 89
+  },
+  {
+    "slug": "geog",
+    "grade": 2,
+    "min": 90,
+    "max": 110
+  },
+  {
+    "slug": "geog",
+    "grade": 3,
+    "min": 111,
+    "max": 130
+  },
+  {
+    "slug": "geog",
+    "grade": 4,
+    "min": 131,
+    "max": 150
+  },
+  {
+    "slug": "geog",
+    "grade": 5,
+    "min": 151,
+    "max": 170
+  },
+  {
+    "slug": "geog",
+    "grade": 6,
+    "min": 171,
+    "max": 190
+  },
+  {
+    "slug": "geog",
+    "grade": 7,
+    "min": 191,
+    "max": 200
+  },
+  {
+    "slug": "hist",
+    "grade": 0,
+    "min": 0,
+    "max": 45
+  },
+  {
+    "slug": "hist",
+    "grade": 1,
+    "min": 46,
+    "max": 74
+  },
+  {
+    "slug": "hist",
+    "grade": 2,
+    "min": 75,
+    "max": 109
+  },
+  {
+    "slug": "hist",
+    "grade": 3,
+    "min": 110,
+    "max": 134
+  },
+  {
+    "slug": "hist",
+    "grade": 4,
+    "min": 135,
+    "max": 149
+  },
+  {
+    "slug": "hist",
+    "grade": 5,
+    "min": 150,
+    "max": 159
+  },
+  {
+    "slug": "hist",
+    "grade": 6,
+    "min": 160,
+    "max": 169
+  },
+  {
+    "slug": "hist",
+    "grade": 7,
+    "min": 170,
+    "max": 200
+  },
+  {
+    "slug": "ict",
+    "grade": 0,
+    "min": 0,
+    "max": 50
+  },
+  {
+    "slug": "ict",
+    "grade": 1,
+    "min": 51,
+    "max": 80
+  },
+  {
+    "slug": "ict",
+    "grade": 2,
+    "min": 81,
+    "max": 110
+  },
+  {
+    "slug": "ict",
+    "grade": 3,
+    "min": 111,
+    "max": 140
+  },
+  {
+    "slug": "ict",
+    "grade": 4,
+    "min": 141,
+    "max": 180
+  },
+  {
+    "slug": "ict",
+    "grade": 5,
+    "min": 181,
+    "max": 190
+  },
+  {
+    "slug": "ict",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "ict",
+    "grade": 7,
+    "min": 196,
+    "max": 200
+  },
+  {
+    "slug": "ls",
+    "grade": 0,
+    "min": 0,
+    "max": 70
+  },
+  {
+    "slug": "ls",
+    "grade": 1,
+    "min": 71,
+    "max": 99
+  },
+  {
+    "slug": "ls",
+    "grade": 2,
+    "min": 100,
+    "max": 130
+  },
+  {
+    "slug": "ls",
+    "grade": 3,
+    "min": 131,
+    "max": 160
+  },
+  {
+    "slug": "ls",
+    "grade": 4,
+    "min": 161,
+    "max": 180
+  },
+  {
+    "slug": "ls",
+    "grade": 5,
+    "min": 181,
+    "max": 200
+  },
+  {
+    "slug": "ls",
+    "grade": 6,
+    "min": 201,
+    "max": 220
+  },
+  {
+    "slug": "ls",
+    "grade": 7,
+    "min": 221,
+    "max": 300
+  },
+  {
+    "slug": "m2",
+    "grade": 0,
+    "min": 0,
+    "max": 20
+  },
+  {
+    "slug": "m2",
+    "grade": 1,
+    "min": 21,
+    "max": 33
+  },
+  {
+    "slug": "m2",
+    "grade": 2,
+    "min": 34,
+    "max": 45
+  },
+  {
+    "slug": "m2",
+    "grade": 3,
+    "min": 46,
+    "max": 57
+  },
+  {
+    "slug": "m2",
+    "grade": 4,
+    "min": 58,
+    "max": 70
+  },
+  {
+    "slug": "m2",
+    "grade": 5,
+    "min": 71,
+    "max": 85
+  },
+  {
+    "slug": "m2",
+    "grade": 6,
+    "min": 86,
+    "max": 96
+  },
+  {
+    "slug": "m2",
+    "grade": 7,
+    "min": 97,
+    "max": 100
+  },
+  {
+    "slug": "math",
+    "grade": 0,
+    "min": 0,
+    "max": 60
+  },
+  {
+    "slug": "math",
+    "grade": 1,
+    "min": 61,
+    "max": 105
+  },
+  {
+    "slug": "math",
+    "grade": 2,
+    "min": 106,
+    "max": 150
+  },
+  {
+    "slug": "math",
+    "grade": 3,
+    "min": 151,
+    "max": 210
+  },
+  {
+    "slug": "math",
+    "grade": 4,
+    "min": 211,
+    "max": 255
+  },
+  {
+    "slug": "math",
+    "grade": 5,
+    "min": 256,
+    "max": 285
+  },
+  {
+    "slug": "math",
+    "grade": 6,
+    "min": 286,
+    "max": 294
+  },
+  {
+    "slug": "math",
+    "grade": 7,
+    "min": 295,
+    "max": 300
+  },
+  {
+    "slug": "phy",
+    "grade": 0,
+    "min": 0,
+    "max": 50
+  },
+  {
+    "slug": "phy",
+    "grade": 1,
+    "min": 51,
+    "max": 70
+  },
+  {
+    "slug": "phy",
+    "grade": 2,
+    "min": 71,
+    "max": 100
+  },
+  {
+    "slug": "phy",
+    "grade": 3,
+    "min": 101,
+    "max": 130
+  },
+  {
+    "slug": "phy",
+    "grade": 4,
+    "min": 131,
+    "max": 160
+  },
+  {
+    "slug": "phy",
+    "grade": 5,
+    "min": 161,
+    "max": 190
+  },
+  {
+    "slug": "phy",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "phy",
+    "grade": 7,
+    "min": 196,
+    "max": 200
+  },
+  {
+    "slug": "ths",
+    "grade": 0,
+    "min": 0,
+    "max": 50
+  },
+  {
+    "slug": "ths",
+    "grade": 1,
+    "min": 51,
+    "max": 80
+  },
+  {
+    "slug": "ths",
+    "grade": 2,
+    "min": 81,
+    "max": 100
+  },
+  {
+    "slug": "ths",
+    "grade": 3,
+    "min": 101,
+    "max": 120
+  },
+  {
+    "slug": "ths",
+    "grade": 4,
+    "min": 121,
+    "max": 140
+  },
+  {
+    "slug": "ths",
+    "grade": 5,
+    "min": 141,
+    "max": 160
+  },
+  {
+    "slug": "ths",
+    "grade": 6,
+    "min": 161,
+    "max": 180
+  },
+  {
+    "slug": "ths",
+    "grade": 7,
+    "min": 181,
+    "max": 200
+  },
+  {
+    "slug": "va",
+    "grade": 0,
+    "min": 0,
+    "max": 79
+  },
+  {
+    "slug": "va",
+    "grade": 1,
+    "min": 80,
+    "max": 99
+  },
+  {
+    "slug": "va",
+    "grade": 2,
+    "min": 100,
+    "max": 129
+  },
+  {
+    "slug": "va",
+    "grade": 3,
+    "min": 130,
+    "max": 149
+  },
+  {
+    "slug": "va",
+    "grade": 4,
+    "min": 150,
+    "max": 180
+  },
+  {
+    "slug": "va",
+    "grade": 5,
+    "min": 181,
+    "max": 190
+  },
+  {
+    "slug": "va",
+    "grade": 6,
+    "min": 191,
+    "max": 195
+  },
+  {
+    "slug": "va",
+    "grade": 7,
+    "min": 196,
+    "max": 200
+  }
+]
